@@ -62,7 +62,7 @@
 <h3 align="center">🚀 Projects & Contributions:</h3>
 <p align="center">
   <a href="https://github.com/khaledsherifgaber1/California-Housing-Price-Prediction.git">
-    <img src="https://img.shields.io/badge/Project%20Name-Your%20Project%20Repo-yellow?logo=github&logoColor=white" alt="Project"/>
+    <img src="https://img.shields.io/badge/Project%20Name-Your%20Project%20Repo-yellow?logo=github&logoColor=white" alt="California Housing Price Prediction"/>
   </a>
   <a href="https://github.com/khaledsherifgaber1/another-project-repo">
     <img src="https://img.shields.io/badge/Contribution-Another%20Project-blue?logo=github&logoColor=white" alt="Contribution"/>
