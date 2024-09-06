@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o7aD7rIbrwQzKeBHM/giphy.gif" alt="waving hand" width="50" height="50"/>
-  Hello, I'm Khaled Sherif Gaber
-</h1>
+<h1 align="center">👋 Hello, I'm Khaled Sherif Gaber</h1>
 <h2 align="center">Junior Data Scientist | Machine Learning Enthusiast</h2>
 
 <p align="center">
